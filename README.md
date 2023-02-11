@@ -1,5 +1,8 @@
 # Into-The-Metaverse
 ## 2022 HackIllinois
+
+![thumbnail](https://user-images.githubusercontent.com/80299116/218271142-45749f1b-6daf-4c79-9b4d-99417e25b6df.jpg)
+
 > Link to demo video: https://youtu.be/kHpNRVDTwXw
 
 
