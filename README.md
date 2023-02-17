@@ -3,7 +3,7 @@
 > Link to demo video: https://youtu.be/kHpNRVDTwXw
 
 
-> Link to view our project package: https://drive.google.com/file/d/1zIYetS6Ub_e7R07XgU-we7dgRQJZDUm6/view?usp=sharing
+> Link to view our Unity project package: https://drive.google.com/file/d/1zIYetS6Ub_e7R07XgU-we7dgRQJZDUm6/view?usp=sharing
 
 ![thumbnail](https://user-images.githubusercontent.com/80299116/218271142-45749f1b-6daf-4c79-9b4d-99417e25b6df.jpg)
 
